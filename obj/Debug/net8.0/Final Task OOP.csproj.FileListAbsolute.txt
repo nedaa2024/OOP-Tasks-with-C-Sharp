@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\bin\Debug\net8.0\Final Task OOP.exe
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\bin\Debug\net8.0\Final Task OOP.deps.json
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\bin\Debug\net8.0\Final Task OOP.runtimeconfig.json
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\bin\Debug\net8.0\Final Task OOP.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\bin\Debug\net8.0\Final Task OOP.pdb
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.AssemblyInfo.cs
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\refint\Final Task OOP.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.pdb
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\Final Task OOP.genruntimeconfig.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\Final Task OOP\obj\Debug\net8.0\ref\Final Task OOP.dll
